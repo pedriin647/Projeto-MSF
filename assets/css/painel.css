@@ -17,6 +17,7 @@ header{
 header a {
     color: #fff;
     font-size: 20px;
+    display: flex;
 }
 
 nav {
@@ -41,6 +42,12 @@ nav a{
 nav a:hover{
     background-color: #fff;
     color: dodgerblue;
+}
+
+.profile{
+    position: absolute;
+    top: 12px;
+    right: 2%;
 }
 
 .fecha{
