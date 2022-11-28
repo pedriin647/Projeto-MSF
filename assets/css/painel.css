@@ -3,6 +3,7 @@
 body {
     font-family: 'Poppins',sans-serif;
     margin: 0px;
+   
 }
 
 a{
@@ -12,6 +13,7 @@ a{
 header{
     background-color: dodgerblue;
     padding: 12px;
+    right: 0;
 }
 
 header a {
